@@ -1,0 +1,6 @@
+Flask
+groq
+langchain_community
+bs4
+langchain-groq
+flask-pydantic
